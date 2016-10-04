@@ -23,6 +23,11 @@ app.get("/services/getData",function(req,res){
     setTimeout(function(){res.sendFile(path.normalize(__dirname +"/data/getData.json"))},1000);
 });
 
+// you can use POST method for mock services
+app.post("/services/sendData",function(req,res){
+    setTimeout(function(){res.sendFile(path.normalize(__dirname +"/data/sendData.json"))},1000);
+});
+
 
 // listen (start app with node server.js) ======================================
 app.listen(8065);
