@@ -1,0 +1,17 @@
+<h1 class="page-header">About Us Page</h1>
+<div ng-controller="dashboardController as dc">
+	<table class="table table-striped">
+		<tr>
+			<th>First Name</th>
+			<th>Last Name</th>
+			<th>E-mail</th>
+			<th>Country</th>
+		</tr>
+		<tr ng-repeat="details in dc.fetchData">
+			<td>{{details.firstName}}</td>
+			<td>{{details.lastName}}</td>
+			<td>{{details.email}}</td>
+			<td>{{details.country}}</td>
+		</tr>
+	</table>
+</div>

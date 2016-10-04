@@ -1,0 +1,14 @@
+{
+    "data": [{
+        "firstName": "Subrahmanyam",
+        "lastName": "Poluru",
+        "email": "subbu.uiux@gmail.com",
+        "country": "USA"
+    }, {
+        "firstName": "Poluru",
+        "lastName": "Subrahmanyam",
+        "email": "subrahmanyam.poluru@gmail.com",
+        "country": "India"
+    }]
+}
+
