@@ -1,0 +1,31 @@
+{
+  "name": "Style Guide for Angular JS",
+  "description": "Making style guide for Angular JS",
+  "main": "index.js",
+  "authors": [
+    "Subrahmanyam Poluru"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "style guide for SPA",
+    "UI"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.6",
+    "angular-cookies": "^1.5.0",
+    "angular-ui-router": "ui-router#^0.2.18",
+    "angular-route": "^1.5.5"
+  },
+  "resolutions": {
+    "angular": "1.5.8"
+  }
+}
