@@ -1,16 +1,19 @@
 # AngularJS_StyleGuide_Gulp_Node
 Angular JS StyleGuide Using Gulp, Node for Single Page Applications<br/>
-<b>Step 1</b>
+<p>After running 'gulp default' all files will be stored in "<b>dist</b>" folder which is final version</p>
+<p>Installation Steps</p>
 <pre>
 npm install
 </pre>
-<b>Step 2</b>
 <pre>
 bower install
 </pre>
 <b>OR</b>
 <pre>
 npm install bower
+</pre>
+<pre>
+gulp default
 </pre>
 <p>Project Structure</p>
 <img src="https://github.com/subrahmanyampoluru/AngularJS_StyleGuide_Gulp_Node/blob/master/app/images/styleguide.png" alt="Style Guide for Single Page Apps"/>
