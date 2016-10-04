@@ -2,8 +2,6 @@
 *   Style Guide : Services
 */
 
-// Services : ladAdminServices
-
 (function() {
     'use strict';
 
