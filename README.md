@@ -17,6 +17,9 @@ npm install bower
 <pre>
 gulp default
 </pre>
+
+<p>Note : If gulp not found, install gulp in your system.</p>
+
 <p>Project Structure</p>
 <img src="https://github.com/subrahmanyampoluru/AngularJS_StyleGuide_Gulp_Node/blob/master/app/images/styleguide.png" alt="Style Guide for Single Page Apps"/>
 
